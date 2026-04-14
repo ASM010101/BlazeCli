@@ -330,6 +330,20 @@ npx tsx tests/integration.ts    # 166 tests
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+---
+
+## 💖 Support This Project
+
+Blaze CLI is built out of a passion for open-source and developer freedom. It is **100% free**, has zero paywalls, and no telemetry.
+
+If this tool saves you time, helps you ship faster, or replaces a $20/month AI subscription, please consider supporting the development!
+
+[![Sponsor ASM010101](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ASM010101)
+
+Your support helps me maintain the project, add new tools, and keep it entirely open-source forever.
+
+---
+
 ## License
 
 [MIT](LICENSE) — © 2026 Ashish (ASM010101)
